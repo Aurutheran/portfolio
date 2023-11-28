@@ -2,6 +2,6 @@
     "version": 2,
     "name": "portfolio",
     "builds": [
-       { "src": "app.js", "use": "@vercel/node" }
+       { "src": "src/app.js", "use": "@vercel/node" }
     ]
  }
